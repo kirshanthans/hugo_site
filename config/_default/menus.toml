@@ -26,12 +26,12 @@
 [[main]]
   name = "Service"
   url = "#service"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Awards"
   url = "#awards"
-  weight = 50
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
