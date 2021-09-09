@@ -51,7 +51,7 @@ url_dataset = ""
 url_project = ""
 url_slides = "files/slides/asplos2017.pptx"
 url_video = ""
-url_poster = "files/poster/asplos2017.pdf"
+url_poster = "files/posters/asplos2017.pdf"
 url_source = ""
 
 # Custom links (optional).
