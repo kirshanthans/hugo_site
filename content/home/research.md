@@ -1,10 +1,9 @@
 +++
 # Projects widget.
 widget = "projects"
-active = true
-date = 2016-04-20T00:00:00
+active = false
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -13,7 +12,7 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "research"
 
 # View.
 # Customize how projects are displayed.
@@ -42,13 +41,3 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
-
-<img src="img/weak_memory.gif">
-<br>
-A .gif showing the magnitude of weak memory behaviours for three
-litmus tests (MP, SB, LB) that appear when stressing individual memory
-locations of a scratchpad location. These patterns were key in finding
-and observing weak memory bugs in GPU applications (explained in
-PLDI'16 paper).
-
-<br><br>
