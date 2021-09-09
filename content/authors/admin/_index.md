@@ -75,7 +75,7 @@ I am a Ph.D. candidate at the [School of Electrical and Computer Engineering](ht
 
 My research interests span the areas of compilers, programming language, and high performance computing.
 I am particularly interested in solving performance challenges in _irregular programs_.
-I have recently focused on theorizing the correctness of _instance-wise_ transformations for _general recursive programs_ as a means to bring _performance transparent abstractions_ to compilers. 
+I have recently focused on theorizing the correctness of _scheduling transformations_ for _general recursive programs_ as a means to bring _performance transparent abstractions_ to compilers. 
 
 My adviser is [Milind Kulkarni](https://engineering.purdue.edu/~milind).
 I have earned my bachelor's in electronic and telecommunication engineering from [University of Moratuwa](https://ent.uom.lk/).
