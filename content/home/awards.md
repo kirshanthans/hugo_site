@@ -10,7 +10,7 @@ title = "Awards and Honors"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 60
 
 +++
 
