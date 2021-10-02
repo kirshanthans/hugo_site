@@ -16,6 +16,7 @@ weight = 100
 
 | | |
 |--|--|
+|Student Volunteer (SPLASH)|2021|
 |Artifact Evaluation Committee (PLDI)|2020|
 |Doctoral Symposium Program Committee (ECOOP)|2019|
 |Collaborative Reviewer (POPL)|2019|
