@@ -45,7 +45,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://dl.acm.org/doi/pdf/10.1145/3314221.3314592"           
-url_preprint = ""
+url_preprint = "https://docs.lib.purdue.edu/ecetr/756/"
 url_code = "https://github.com/kirshanthans/polyrec"
 url_dataset = ""
 url_project = ""

@@ -16,6 +16,8 @@ weight = 50
 
 | | |
 |--|--|
+|External Review Committee (OOPSLA)|2022|
+|Artifact Evaluation Committee (OOPSLA)|2022|
 |Student Volunteer (SPLASH)|2021|
 |Artifact Evaluation Committee (PLDI)|2020|
 |Doctoral Symposium Program Committee (ECOOP)|2019|
