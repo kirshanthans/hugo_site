@@ -44,7 +44,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://dl.acm.org/doi/pdf/10.1145/3133900"           
+url_pdf = "https://ieeexplore.ieee.org/document/7975294"           
 url_preprint = ""
 url_code = "https://bitbucket.org/plcl/treelogy"
 url_dataset = ""
