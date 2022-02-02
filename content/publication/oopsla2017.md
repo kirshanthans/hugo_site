@@ -44,7 +44,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7975294"           
+url_pdf = "https://dl.acm.org/doi/10.1145/3133900"           
 url_preprint = ""
 url_code = "https://github.com/laithsakka/Grafter"
 url_dataset = ""
