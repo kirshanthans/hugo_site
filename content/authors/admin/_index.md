@@ -78,7 +78,7 @@ I am particularly interested in solving performance challenges in _irregular pro
 I have recently focused on theorizing the correctness of _scheduling transformations_ for _general recursive programs_ as a means to bring _performance transparent abstractions_ to compilers. 
 
 My adviser is [Milind Kulkarni](https://engineering.purdue.edu/~milind).
-I have earned my bachelor's in electronic and telecommunication engineering from [University of Moratuwa](https://ent.uom.lk/).
+I have earned my bachelor's in electronics and telecommunication engineering from [University of Moratuwa](https://ent.uom.lk/).
 
 **I am in the academic job market! Please feel free to reach out**
 
