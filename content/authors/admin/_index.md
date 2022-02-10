@@ -80,7 +80,7 @@ I have recently focused on theorizing the correctness of _scheduling transformat
 My adviser is [Milind Kulkarni](https://engineering.purdue.edu/~milind).
 I have earned my bachelor's in electronics and telecommunication engineering from [University of Moratuwa](https://ent.uom.lk/).
 
-**I am in the academic job market! Please feel free to reach out**
+**I am on the academic job market! Please feel free to reach out**
 
 [[Academic CV]](files/cv-resume/cv.pdf)
 [[Research Statement]](files/statements/research.pdf) 
