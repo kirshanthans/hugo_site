@@ -16,6 +16,7 @@ weight = 50
 
 | | |
 |--|--|
+|Registration Chair (PPoPP)|2023|
 |Project for Inclusion in ECE (PIECE) Committee|2022|
 |External Review Committee (OOPSLA)|2022|
 |Artifact Evaluation Committee (OOPSLA)|2022|
