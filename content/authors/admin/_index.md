@@ -30,7 +30,10 @@ education:
   - course: Ph.D. in Electrical and Computer Engineering 
     institution: Purdue University
     year: 2022
-  - course: BSc. Eng. (Hons) in Electronic and Telecommunication Engineering
+  - course: M.S. in Electrical and Computer Engineering
+    institution: Purdue University
+    year: 2022
+  - course: B.Sc. Eng. (Hons) in Electronics and Telecommunication Engineering
     institution: University of Moratuwa
     year: 2014
 

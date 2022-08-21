@@ -16,6 +16,7 @@ weight = 60
 
 | | |
 |--|--|
+|Best Paper Award at ICS | 2022|
 |Bilsland Dissertation Fellowship| 2021-2022 |
 |Silver Medal in ACM Student Research Competition at SPLASH| 2018|
 |Electrical and Computer Engineering Fellowship| 2015-2016|
