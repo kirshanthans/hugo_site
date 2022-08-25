@@ -14,7 +14,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: School of Electrical and Computer Engineering, Purdue University 
+- name: Elmore Family School of Electrical and Computer Engineering, Purdue University 
   url: "https://www.purdue.edu/ece"
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,7 +33,7 @@ education:
   - course: M.S. in Electrical and Computer Engineering
     institution: Purdue University
     year: 2022
-  - course: B.Sc. Eng. (Hons) in Electronics and Telecommunication Engineering
+  - course: B.S. in Electronics and Telecommunication Engineering
     institution: University of Moratuwa
     year: 2014
 
@@ -74,7 +74,7 @@ email: ""
 ---
 
 I am Kirshanthan ("Krish") Sundararajah.
-I am a Ph.D. candidate at the [School of Electrical and Computer Engineering](https://engineering.purdue.edu), [Purdue University](https://purdue.edu).
+I am a Ph.D. candidate at the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu), [Purdue University](https://purdue.edu).
 
 My research interests span the areas of compilers, programming language, and high performance computing.
 I am particularly interested in solving performance challenges in _irregular programs_.
@@ -83,7 +83,7 @@ I have recently focused on theorizing the correctness of _scheduling transformat
 My adviser is [Milind Kulkarni](https://engineering.purdue.edu/~milind).
 I have earned my bachelor's in electronics and telecommunication engineering from [University of Moratuwa](https://ent.uom.lk/).
 
-**I am on the academic job market! Please feel free to reach out**
+**I am on the academic job market! Please feel free to reach out.**
 
 [[Academic CV]](files/cv-resume/cv.pdf)
 [[Research Statement]](files/statements/research.pdf) 

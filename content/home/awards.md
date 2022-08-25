@@ -6,7 +6,7 @@ widget = "custom"
 active = true
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Awards and Honors"
+title = "Awards"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,7 +15,7 @@ weight = 60
 +++
 
 | | |
-|--|--|
+|:--|--:|
 |Best Paper Award at ICS | 2022|
 |Bilsland Dissertation Fellowship| 2021-2022 |
 |Silver Medal in ACM Student Research Competition at SPLASH| 2018|

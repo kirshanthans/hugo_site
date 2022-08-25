@@ -15,7 +15,7 @@ weight = 30
 +++
 
 | | |
-|--|--|
-|ECE 368 Data Structures (**Instructor**) _@Purdue University_|Summer 2021 and Summer 2022|
-|ECE 295 Introduction to Data Science (**TA**) _@Purdue University_|Summer 2019 and Fall 2020|
-|CS 1032 Programming Fundamental (**TA**) _@University Moratuwa_|Mar 2014 - Jun 2015|
+|:--|--:|
+|ECE 368 Data Structures (**Instructor**) _@Purdue University_| Summer 2021 and Summer 2022|
+|ECE 295 Introduction to Data Science (**TA**) _@Purdue University_| Summer 2019 and Fall 2020|
+|CS 1032 Programming Fundamental (**TA**) _@University Moratuwa_| Mar 2014 - Jun 2015|
