@@ -23,7 +23,7 @@ bio: My research interests include compilers, programming languages and high per
 interests:
 - Compilers 
 - Programming Languages 
-- High Performance Computing
+- High-Performance Computing
 
 education:
   courses:
@@ -76,9 +76,9 @@ email: ""
 I am Kirshanthan ("Krish") Sundararajah.
 I am a Ph.D. candidate at the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu), [Purdue University](https://purdue.edu).
 
-My research interests span the areas of compilers, programming language, and high performance computing.
-I am particularly interested in solving performance challenges in _irregular programs_.
-I have recently focused on theorizing the correctness of _scheduling transformations_ for _general recursive programs_ as a means to bring _performance transparent abstractions_ to compilers. 
+My research interests span the areas of compilers, programming languages, and high-performance computing.
+I am particularly interested in solving **performance challenges in irregular programs**.
+I have recently focused on theorizing the correctness of scheduling transformations for general recursive programs to provide **performance transparent abstractions in compilers**. 
 
 My adviser is [Milind Kulkarni](https://engineering.purdue.edu/~milind).
 I have earned my bachelor's in electronics and telecommunication engineering from [University of Moratuwa](https://ent.uom.lk/).
