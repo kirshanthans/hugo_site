@@ -78,13 +78,13 @@ I am a Ph.D. candidate at the [Elmore Family School of Electrical and Computer E
 
 My research interests span the areas of compilers, programming languages, and high-performance computing.
 I am particularly interested in solving **performance challenges in irregular programs**.
-I have recently focused on theorizing the correctness of scheduling transformations for general recursive programs to provide **performance transparent abstractions in compilers**. 
+I have recently focused on theorizing the correctness of scheduling transformations for general recursive programs to provide **performance transparent abstractions**. 
 
 My adviser is [Milind Kulkarni](https://engineering.purdue.edu/~milind).
 I have earned my bachelor's in electronics and telecommunication engineering from [University of Moratuwa](https://ent.uom.lk/).
 
 **I am on the academic job market! Please feel free to reach out.**
 
-[[Academic CV]](files/cv-resume/cv.pdf)
+[[Academic CV]](files/cv-resume/academic_cv.pdf)
 [[Research Statement]](files/statements/research.pdf) 
 [[Teaching Statement]](files/statements/teaching.pdf)
