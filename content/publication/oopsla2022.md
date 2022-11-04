@@ -18,7 +18,7 @@ authors = ["Kirshanthan Sundararajah", "Charitha Saumya", "Milind Kulkarni"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication_short = "In *CGO*"
+publication_short = "In *OOPSLA*"
 
 # Abstract and optional shortened version.
 
