@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Electrical and Computer Engineering 
     institution: Purdue University
-    year: 2022
+    year: 2023
   - course: M.S. in Electrical and Computer Engineering
     institution: Purdue University
     year: 2022
