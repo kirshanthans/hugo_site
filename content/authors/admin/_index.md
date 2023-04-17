@@ -33,7 +33,7 @@ education:
   - course: M.S. in Electrical and Computer Engineering
     institution: Purdue University
     year: 2022
-  - course: B.S. in Electronics and Telecommunication Engineering
+  - course: B.S. in Electronics and Telecom. Engineering
     institution: University of Moratuwa
     year: 2014
 
