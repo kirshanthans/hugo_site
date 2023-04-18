@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Kirshanthan Sundararajah # Website name
+title: Kirshanthan ("Krish") Sundararajah # Website name
 baseURL: 'https://kirshanthans.github.io/' # Website URL
 
 ############################
