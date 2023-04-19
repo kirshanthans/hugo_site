@@ -16,13 +16,13 @@ weight = 50
 
 | | |
 |:--|--:|
-|Registration Chair (_PPoPP_)| 2023 |
+|Registration Chair (_PPoPP_) | 2023 |
 |Project for Inclusion in ECE (_PIECE_) Committee| 2022 |
 |External Review Committee (_OOPSLA_)| 2022 |
 |Artifact Evaluation Committee (_OOPSLA_)| 2022 |
 |Student Volunteer (_SPLASH_)| 2021 |
 |Artifact Evaluation Committee (_PLDI_)| 2020 |
-|Doctoral Symposium Program Committee (_ECOOP_)| 2019 |
+|Doctoral Symposium Program Committee (_ECOOP_) | 2019 |
 |Collaborative Reviewer (_POPL_)| 2019 |
 |Student Volunteer (_PLDI_)| 2019 |
 |Student Volunteer (_SPLASH_)| 2018 |
