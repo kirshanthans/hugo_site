@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: PhD in Electrical and Computer Eng.
-    institution: Purdue University
+    institution: Purdue University, USA
     year: 2023
   - course: MS in Electrical and Computer Eng.
-    institution: Purdue University
+    institution: Purdue University, USA
     year: 2022
   - course: BSc in Electronics and Telecom. Eng.
-    institution: University of Moratuwa
+    institution: University of Moratuwa, Sri Lanka
     year: 2014
 
 # Social/Academic Networking
