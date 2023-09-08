@@ -16,6 +16,7 @@ weight = 50
 
 | | |
 |:--|--:|
+|Program Committee (_CC_) | 2024 |
 |Registration Chair (_PPoPP_) | 2023 |
 |Project for Inclusion in ECE (_PIECE_) Committee| 2022 |
 |External Review Committee (_OOPSLA_)| 2022 |

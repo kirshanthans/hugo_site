@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate 
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-- name: Elmore Family School of Electrical and Computer Engineering, Purdue University 
-  url: "https://www.purdue.edu/ece"
+- name: Virginia Tech | Computer Science 
+  url: "https://www.cs.vt.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include compilers, programming languages and high performance computing.
@@ -33,7 +33,7 @@ education:
   - course: MS in Electrical and Computer Eng.
     institution: Purdue University, USA
     year: 2022
-  - course: BSc in Electronics and Telecom. Eng.
+  - course: BSc in Electronic and Telecom. Eng.
     institution: University of Moratuwa, Sri Lanka
     year: 2014
 
@@ -72,17 +72,14 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-<span style="color:red">
-Update: I will be starting as an Assistant Professor of Computer Science at Virginia Tech in Fall 2023. I am looking for PhD students to work with me. Please feel free to reach out if you are interested in my work.
-</span>
-
-I am Kirshanthan ("Krish") Sundararajah, a PhD candidate at the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu), [Purdue University](https://purdue.edu).
+I am an Assistant Professor of [Computer Science at Virginia Tech](https://www.cs.vt.edu).
 My research interests span the areas of compilers, programming languages, and high-performance computing.
-I am particularly interested in solving performance challenges in irregular programs.
-Recently, I have focused on reasoning about the correctness of composable scheduling transformations for general recursive programs. 
+I am particularly interested in solving performance challenges arise from the _irregualrity in programs_.
 
-I am fortunate enough to advised by [Milind Kulkarni](https://engineering.purdue.edu/~milind).
-I have earned my Bachelor's in Electronics and Telecommunication Engineering from [University of Moratuwa, Sri Lanka](https://ent.uom.lk/).
+**I am currently looking for PhD students. Please feel free to reach out if my work interests you.**
+
+I received my PhD from [Purdue University](https://purdue.edu) where I was fortunate enough to advised by [Milind Kulkarni](https://engineering.purdue.edu/~milind).
+I earned my Bachelor's in Electronic and Telecommunication Engineering from [University of Moratuwa, Sri Lanka](https://ent.uom.lk/).
 
 [[Academic CV]](files/cv-resume/academic_cv.pdf)
 [[Research Statement]](files/statements/research.pdf) 
