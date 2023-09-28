@@ -74,7 +74,7 @@ email: ""
 ---
 I am an Assistant Professor of [Computer Science at Virginia Tech](https://www.cs.vt.edu).
 My research interests span the areas of compilers, programming languages, and high-performance computing.
-I am particularly interested in solving performance challenges arise from the _irregualrity in programs_.
+I am particularly interested in solving challenges arise from the _irregualrity in programs_.
 
 **I am currently looking for PhD students. Please feel free to reach out if my work interests you.**
 
