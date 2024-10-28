@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Conferences"
+subtitle = "Journals"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -27,7 +27,7 @@ subtitle = "Conferences"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "1"
+    publication_type = "2"
     exclude_featured = false
   
 [design]
