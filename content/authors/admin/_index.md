@@ -76,7 +76,7 @@ I am an Assistant Professor of [Computer Science at Virginia Tech](https://www.c
 My research interests span the areas of compilers, programming languages, and high-performance computing.
 I am particularly interested in solving challenges arise from the _irregularity in programs_.
 
-**I am currently looking for motivated PhD students starting in Fall 2024. Please feel free to reach out if my work interests you.**
+**I am currently looking for motivated PhD students starting in Fall 2025. Please feel free to reach out if my work interests you.**
 
 I received my PhD from [Purdue University](https://purdue.edu) where I was fortunate enough to advised by [Milind Kulkarni](https://engineering.purdue.edu/~milind).
 I earned my Bachelor's in Electronic and Telecommunication Engineering from [University of Moratuwa, Sri Lanka](https://ent.uom.lk/).

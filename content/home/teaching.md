@@ -16,6 +16,7 @@ weight = 30
 
 | | |
 |:--|--:|
+| CS 5314 Programming Languages _@VT_ | Fall 2024 |
 |[CS 6304 Advanced Topics Language and Translation](https://kirshanthans.github.io/cs6304) _@VT_ | Spring 2024 |
 |CS 4304/5304 Compiler Design _@VT_| Fall 2023 |
 |ECE 368 Data Structures (Instructor) _@PU_| Summer 2021 and Summer 2022|
