@@ -16,14 +16,17 @@ weight = 50
 
 | | |
 |:--|--:|
-|Program Committee (_CC_) | 2024 |
-|Registration Chair (_PPoPP_) | 2023 |
+|Program Committee ([_PLDI_](https://pldi25.sigplan.org/committee/pldi-2025-papers-pldi-review-committee)) | 2025 |
+|Program Committee ([_PPoPP_](https://ppopp25.sigplan.org/committee/PPoPP-2025-Main-Conference-1-program-committee)) | 2025 |
+|Program Committee ([_CGO_](https://2025.cgo.org/committee/cgo-2025-papers-program-committee)) | 2025 |
+|Program Committee ([_CC_](https://conf.researchr.org/committee/CC-2024/CC-2024-papers-program-committee)) | 2024 |
+|Registration Chair ([_PPoPP_](https://ppopp23.sigplan.org/committee/PPoPP-2023-organizing-committee)) | 2023 |
 |Project for Inclusion in ECE (_PIECE_) Committee| 2022 |
-|External Review Committee (_OOPSLA_)| 2022 |
-|Artifact Evaluation Committee (_OOPSLA_)| 2022 |
+|External Review Committee ([_OOPSLA_](https://2022.splashcon.org/committee/splash-2022-Artifacts-artifact-evaluation-committee))| 2022 |
+|Artifact Evaluation Committee ([_OOPSLA_](https://2022.splashcon.org/committee/splash-2022-Artifacts-artifact-evaluation-committee))| 2022 |
 |Student Volunteer (_SPLASH_)| 2021 |
-|Artifact Evaluation Committee (_PLDI_)| 2020 |
-|Doctoral Symposium Program Committee (_ECOOP_) | 2019 |
+|Artifact Evaluation Committee ([_PLDI_](https://pldi20.sigplan.org/committee/pldi-2020-PLDI-Research-Artifacts-artifact-evaluation-committee))| 2020 |
+|Doctoral Symposium Program Committee ([_ECOOP_](https://2019.ecoop.org/committee/ecoop-2019-docsymp-program-committee)) | 2019 |
 |Collaborative Reviewer (_POPL_)| 2019 |
 |Student Volunteer (_PLDI_)| 2019 |
 |Student Volunteer (_SPLASH_)| 2018 |
