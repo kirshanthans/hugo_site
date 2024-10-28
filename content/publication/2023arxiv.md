@@ -15,10 +15,10 @@ authors = ["Charitha Saumya", "Rohan Gangaraju", "Kirshanthan Sundararajah", "Mi
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication_short = "In *CC*"
+publication_short = "In *Arxiv*"
 
 # Abstract and optional shortened version.
 
