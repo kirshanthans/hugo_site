@@ -79,6 +79,7 @@ I am particularly interested in solving challenges arise from the _irregularity 
 **I am currently looking for motivated PhD students starting in Fall 2025. Please feel free to reach out if my work interests you.**
 
 I received my PhD from [Purdue University](https://purdue.edu) where I was fortunate enough to advised by [Milind Kulkarni](https://engineering.purdue.edu/~milind).
+I was part of the [PurPL](https://purduepl.github.io/) group at Purdue University.
 I earned my Bachelor's in Electronic and Telecommunication Engineering from [University of Moratuwa, Sri Lanka](https://ent.uom.lk/).
 
 [[Academic CV]](files/cv-resume/academic_cv.pdf)
