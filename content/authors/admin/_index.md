@@ -85,6 +85,5 @@ I received my PhD from [Purdue University](https://purdue.edu) where I was fortu
 I was part of the [PurPL](https://purduepl.github.io/) group at Purdue University.
 I earned my Bachelor's in Electronic and Telecommunication Engineering from [University of Moratuwa, Sri Lanka](https://ent.uom.lk/).
 
-[[Academic CV]](files/cv-resume/academic_cv.pdf)
 [[Research Statement]](files/statements/research.pdf) 
 [[Teaching Statement]](files/statements/teaching.pdf)
