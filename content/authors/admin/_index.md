@@ -83,7 +83,7 @@ I am particularly interested in solving challenges arise from the _irregularity 
 
 I received my PhD from [Purdue University](https://purdue.edu) where I was fortunate enough to advised by [Milind Kulkarni](https://engineering.purdue.edu/~milind).
 I was part of the [PurPL](https://purduepl.github.io/) group at Purdue University.
-I earned my Bachelor's in Electronic and Telecommunication Engineering from [University of Moratuwa, Sri Lanka](https://ent.uom.lk/).
+I earned my Bachelor's in Electronic and Telecommunication Engineering from [UoM, Sri Lanka](https://ent.uom.lk/).
 
 [[Research Statement]](files/statements/research.pdf) 
 [[Teaching Statement]](files/statements/teaching.pdf)
