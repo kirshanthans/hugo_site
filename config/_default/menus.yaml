@@ -10,8 +10,11 @@ main:
   # - name: News
   #   url: '#news'
   #   weight: 15
+  # - name: Research
+  #   url: '#research'
+  #   weight: 15
   - name: Publications
-    url: '#publications'
+    url: '#conference'
     weight: 20
   - name: Teaching
     url: '#teaching'

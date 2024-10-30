@@ -51,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=knUrjrMAAAAJ&view_op=list_works&sortby=pubdate
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-6384-062X
 - icon: github
   icon_pack: fab
   link: https://github.com/kirshanthans

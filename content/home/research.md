@@ -7,7 +7,7 @@ title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 10
 
 # Content.
 # Display content from the following folder.
