@@ -16,6 +16,6 @@ weight = 30
 
 | | |
 |:--|--:|
-|[CS 5314 Programming Languages](https://canvas.vt.edu/courses/196006) _@VT_ | Fall 2024 |
-|[CS 6304 Advanced Topics Language and Translation](https://kirshanthans.github.io/cs6304) _@VT_ | Spring 2024 |
-|[CS 4304](https://canvas.vt.edu/courses/180725)/[5304 Compiler Design](https://canvas.vt.edu/courses/180726) _@VT_| Fall 2023 |
+|[CS 5314 Programming Languages](https://canvas.vt.edu/courses/196006) | Fall 2024 |
+|[CS 6304 Advanced Topics Language and Translation](https://kirshanthans.github.io/cs6304) | Spring 2024 |
+|[CS 4304](https://canvas.vt.edu/courses/180725)/[5304 Compiler Design](https://canvas.vt.edu/courses/180726) | Fall 2023 |
