@@ -25,10 +25,6 @@ weight = 50
 |Project for Inclusion in ECE ([PIECE](https://engineering.purdue.edu/ECE/AboutUs/Diversity)) Committee| 2022 |
 |External Review Committee ([OOPSLA](https://2022.splashcon.org/committee/splash-2022-Artifacts-artifact-evaluation-committee))| 2022 |
 |Artifact Evaluation Committee ([OOPSLA](https://2022.splashcon.org/committee/splash-2022-Artifacts-artifact-evaluation-committee))| 2022 |
-|Student Volunteer (SPLASH)| 2021 |
 |Artifact Evaluation Committee ([PLDI](https://pldi20.sigplan.org/committee/pldi-2020-PLDI-Research-Artifacts-artifact-evaluation-committee))| 2020 |
 |Program Committee ([ECOOP Doctoral Symposium](https://2019.ecoop.org/committee/ecoop-2019-docsymp-program-committee)) | 2019 |
 |Collaborative Reviewer (POPL)| 2019 |
-|Student Volunteer (PLDI)| 2019 |
-|Student Volunteer (SPLASH)| 2018 |
-|Student Volunteer (PLDI)| 2016 |

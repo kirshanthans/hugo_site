@@ -19,6 +19,3 @@ weight = 30
 |[CS 5314 Programming Languages](https://canvas.vt.edu/courses/196006) _@VT_ | Fall 2024 |
 |[CS 6304 Advanced Topics Language and Translation](https://kirshanthans.github.io/cs6304) _@VT_ | Spring 2024 |
 |[CS 4304](https://canvas.vt.edu/courses/180725)/[5304 Compiler Design](https://canvas.vt.edu/courses/180726) _@VT_| Fall 2023 |
-|ECE 368 Data Structures (Instructor) _@Purdue_| Summer 2021 and Summer 2022|
-|ECE 295 Introduction to Data Science (TA) _@Purdue_| Summer 2019, Fall 2020, and Summer 2023|
-|CS 1032 Programming Fundamental (TA) _@UoM_| Mar 2014 - Jun 2015|
