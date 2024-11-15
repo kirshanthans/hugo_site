@@ -14,8 +14,9 @@ weight = 30
 
 +++
 
-| | |
-|:--|--:|
-|[CS 5314 Programming Languages](https://canvas.vt.edu/courses/196006) | Fall 2024 |
-|[CS 6304 Advanced Topics Language and Translation](https://kirshanthans.github.io/cs6304) | Spring 2024 |
-|[CS 4304](https://canvas.vt.edu/courses/180725)/[5304 Compiler Design](https://canvas.vt.edu/courses/180726) | Fall 2023 |
+I teach compilers and programming languages courses for both graduate and undergraduate students.
+
+* CS 5314 Programming Languages [Fall 2024](https://canvas.vt.edu/courses/196006)
+* CS 6304 Advanced Topics Language and Translation [Spring 2024](https://kirshanthans.github.io/cs6304)
+* CS 5304 Compiler Design [Fall 2023](https://canvas.vt.edu/courses/180726)
+* CS 4304 Compiler Design [Fall 2023](https://canvas.vt.edu/courses/180725)
